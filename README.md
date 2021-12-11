@@ -11,8 +11,6 @@ G'day, I'm **Scope** an Aussie developer that works on everything related to dis
 
 ![ScopeOpen](https://github-readme-stats.vercel.app/api?username=ScopeOpen&show_icons=true&theme=tokyonight&hide=["issues"])
 
-![ScopeOpen](https://github-readme-stats.vercel.app/api/top-langs?username=ScopeOpen&show_icons=true&theme=tokyonight&layout=compact)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight&layout=compact)
 
 
