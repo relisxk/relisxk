@@ -13,4 +13,5 @@ G'day, I'm **Scope** an Aussie developer that works on everything related to dis
 
 ![ScopeOpen](https://github-readme-stats.vercel.app/api/top-langs?username=ScopeOpen&show_icons=true&theme=tokyonight&layout=compact)
 
-![ScopeOpen](https://github-readme-stats.vercel.app/api/wakatime?username=ScopeOPen)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ScopeOpen)](https://github.com/anuraghazra/github-readme-stats)
+
