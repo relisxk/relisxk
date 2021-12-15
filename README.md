@@ -6,6 +6,9 @@ G'day, I'm **Scope** an Aussie developer that works on everything related to dis
 - **ID: 890442340370632714**
 - **[DashCruft Nation](https://discord.gg/RGHBX8CU9m)**
 
+# Coding Languages
+<object data="javascript.svg" width="300" height="300"> </object>
+<object data="python.svg" width="300" height="300"> </object>
 
 # GitHub Statistics
 
