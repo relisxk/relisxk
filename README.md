@@ -7,9 +7,8 @@ G'day, I'm **Scope** an Aussie developer that works on everything related to dis
 - **[DashCruft Nation](https://discord.gg/RGHBX8CU9m)**
 
 # Coding Languages
-<object data="javascript.svg" width="300" height="300"> </object>
-<object data="python.svg" width="300" height="300"> </object>
-
+<img src="./javascript.svg" width="50" height="50">
+<img src="./python.svg" width="50" height="50" color="#F7DF1E">
 # GitHub Statistics
 
 ![ScopeOpen](https://github-readme-stats.vercel.app/api?username=ScopeOpen&show_icons=true&theme=tokyonight&)
