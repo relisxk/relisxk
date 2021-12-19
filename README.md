@@ -7,13 +7,7 @@ G'day, I'm **Scope** an Aussie developer that works on everything related to dis
 - **[DashCruft Nation](https://discord.gg/RGHBX8CU9m)**
 
 # Coding Languages
-<img src="./javascript.svg" width="50" height="50">
-<img src="./python.svg" width="50" height="50" color="#F7DF1E">
 
-# GitHub Statistics
-
-![ScopeOpen](https://github-readme-stats.vercel.app/api?username=ScopeOpen&show_icons=true&theme=tokyonight&)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight&layout=compact)
-
-
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+# Github Statistics
