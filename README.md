@@ -1,10 +1,17 @@
-# Introduction 
-G'day, I'm **Scope** an Aussie developer that works on everything related to discord. Currently I'm learning HTML & CSS. 
+**Hi there! 👋, it's great to see you!** 😀
 
-# Discord Info/Invites
-- **NAME: Scope#4320**
-- **ID: 890442340370632714**
-- **[DashCruft Nation](https://discord.gg/RGHBX8CU9m)**
+ Here are some things about me: 
+
+  - 🇦🇺 I'm a self taught developer from Australia.
+  - 🌊 If im not online in most likely out surfing.
+  - 📫 Depeding on where you want to contact me I'm most likely on Discord.
+  
+**You can contact me at...**
+
+  - 🕊 Twitter:  [ScopeOpen](https://mobile.twitter.com/scope_open): A weird place.
+  - 🧢 Discord:  Scope#0002
+  - 🐘 GitHub:   [ScopeOpen](https://github.com/ScopeOpen/ScopeChatroom/issues/new): Talk to me on Github
+  - ✉️ Gmail:    github.scope.open@gmail.com
 
 # Coding Languages
 
