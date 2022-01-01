@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><br>
-	![My Discord](https://discord-readme-badge.vercel.app/api?id=890442340370632714)
+	<img src="https://discord-readme-badge.vercel.app/api?id=890442340370632714">
      </a>
 </p>
 
