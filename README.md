@@ -6,7 +6,7 @@
 </p>
 
 <p align="center"><br>
-    <img src="https://lanyard-profile-readme.vercel.app/api/890442340370632714"/>
+	![My Discord](https://discord-readme-badge.vercel.app/api?id=890442340370632714)
      </a>
 </p>
 
