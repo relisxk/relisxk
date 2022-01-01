@@ -6,7 +6,6 @@
 </p>
 
 <p align="center"><br>
-  <a href="https://github.com/KanekiWeb">
     <img src="https://lanyard-profile-readme.vercel.app/api/890442340370632714"/>
      </a>
 </p>
