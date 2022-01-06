@@ -33,5 +33,5 @@
 
 <p align="center"> 
   Github Views :<br>
-  <img src="https://profile-counter.glitch.me/Scope/count.svg" />
+  <img src="https://profile-counter.glitch.me/ScopeOpen/count.svg" />
 </p>
