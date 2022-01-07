@@ -9,7 +9,6 @@
 	<img src="https://discord-readme-badge.vercel.app/api?id=890442340370632714">
      </a>
 </p>
-
 <br><br>
 <p align="center">
 	<b>Languages & Frameworks</b>
