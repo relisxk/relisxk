@@ -1,8 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Scope</b><br>
-  <a href="">Discord</a> |
-  <a href="">YouTube</a> |
-  <a href="https://twitter.com/scope_open">Twitter</a> |
+  <b>Hi 👋, I'm Scope / Relisxk</b><br>
 </p>
 
 <p align="center"><br>
