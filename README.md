@@ -1,5 +1,5 @@
 <p align='center'>
-  <b>Hi 👋, I'm Scope / Relisxk</b><br>
+  <b>Hi 👋, I'm Relisxk / Max</b><br>
 </p>
 
 <p align="center"><br>
